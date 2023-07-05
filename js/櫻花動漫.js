@@ -2,7 +2,7 @@ var rule={
             title: '櫻花動漫',
             host: 'http://www.dm99.me',
             url: '/list/fypage.html',
-            searchUrl:'/search.asp?searchword=**&submit=',
+            searchUrl:'/search.asp?searchword=**',
             searchable: 2,//是否启用全局搜索,
             quickSearch: 0,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
