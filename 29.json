@@ -27,7 +27,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"{\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$16#综艺$3#动漫$4\", \"分类url\":\"https://yanaifei.tv/vod/show/{cateId}--------{catePg}---.html\"}"},
+    "ext":"{\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$16#综艺$3#动漫$4\", \"分类url\":\"https://yanaifei.tv/vod/show/{cateId}--------{catePg}---.html\"}"
+},
 {
     "key":"csp_XBPQ_剧迷",
     "name":"🍹剧迷",
@@ -36,7 +37,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"{\"简介\":\"col-pdtext-collapsecontent&&</p>\",\"播放链接\":\"href=\\\"&&\\\"\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"myui-panel_hd&&</div>\",\"线路标题\":\"title\\\">&&</h3>\",\"播放数组\":\"myui-content__listsort-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$hk#综艺$tv_show#动漫$anime\",\"分类url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"},
+    "ext":"{\"简介\":\"col-pdtext-collapsecontent&&</p>\",\"播放链接\":\"href=\\\"&&\\\"\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"myui-panel_hd&&</div>\",\"线路标题\":\"title\\\">&&</h3>\",\"播放数组\":\"myui-content__listsort-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$hk#综艺$tv_show#动漫$anime\",\"分类url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"
+},
 
 {"key":"dr_爱壹帆","name":"爱壹帆(drpy)","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E7%88%B1%E5%A3%B9%E5%B8%86.js"},
 {"key":"唐人街影院","name":"🐑唐人街影院","type":1,"api":"https://www.tangrenjie.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
