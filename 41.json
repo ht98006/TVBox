@@ -19,10 +19,19 @@
 "sites":
  
 [
-
 {
-    "key":"櫻花動漫",
-    "name":"🐑花動漫",
+    "key":"櫻花動漫2",
+    "name":"🐑櫻花動漫2",
+    "type":3,
+    "api":"https://raw.githubusercontent.com/ht98006/TVBox/main/libs/drpy2.js",
+    "searchable":2,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ht98006/TVBox/main/js/026.js"
+},
+{
+    "key":"026",
+    "name":"🐑櫻花動漫1",
     "type":3,
     "api":"https://raw.githubusercontent.com/ht98006/TVBox/main/libs/drpy2.js",
     "searchable":2,
