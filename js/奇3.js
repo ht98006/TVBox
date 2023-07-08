@@ -17,7 +17,7 @@ var rule={
 			二级: {
                 "title": ".myui-content__detail&&h1",//分類/年份...
                 "img": ".myui-content__thumb&&a&&img&&data-original",//圖
-                "desc": ".myui-content__detail&&p.data:eq(1)&&Text;.myui-content__detail&&p.data:eq(2)&&Text.myui-content__detail&&p.data:eq(3)&&Text.myui-content__detail&&p.data:eq(4)&&Text.myui-content__detail&&p.data:eq(5)&&Text, 
+                "desc": ".myui-content__detail&&p.data:eq(1)&&Text;.myui-content__detail&&p.data:eq(2)&&Text;.myui-content__detail&&p.data:eq(3)&&Text;.myui-content__detail&&p.data:eq(4)&&Text;.myui-content__detail&&p.data:eq(5)&&Text", 
                 "content": ".hidden-xs&&Text",//簡介
                 "tabs": ".nav-tabs&&li&&a",//解析源
                 "lists": ".myui-content__list:eq(#id) li"
