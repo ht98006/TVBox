@@ -15,7 +15,7 @@ var rule={
             double: true, // 推荐内容是否双层定位
 	    	一级: '.myui-vodlist__box;a&&title;a&&data-original;.pic-text text-right;a&&href',
 			二级: {
-                "title": ".myui-content__detail&&h1",//分類/年份..
+                "title": ".myui-content__detail&&h1",//分類/年份...
                 "tabs": ".nav-tabs&&li&&a",//解析源
                 "lists": ".myui-content__list:eq(#id) li"
             },
