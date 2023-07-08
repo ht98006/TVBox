@@ -21,6 +21,6 @@ var rule={
                 "tabs": ".nav-tabs&&li&&a",//解析源
                 "lists": ".myui-content__list:eq(#id) li"
             },
-	      搜索: '.detail;h4&&Text;.thumb&&a&&data-original;.text-muted&&Text;a&&href;',
+	      搜索: '.detail;h4&&Text;.thumb&&a&&data-original;.pic-text&&Text;a&&href;',
 
  }
