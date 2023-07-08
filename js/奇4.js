@@ -15,11 +15,12 @@ var rule={
             double: true, // 推荐内容是否双层定位
 	    	一级: '.myui-vodlist__box;a&&title;a&&data-original;.pic-text text-right;a&&href',
 			二级: {
-                "title": ".myui-content__detail&&h1",//分類/年份...
+                "title": "h1&&Text;.title&&Text",//分類/年份...
 				"img": ".myui-content__thumb&&a&&img&&data-original",//圖
                 "content": ".hidden-xs&&Text",//簡介
                 "tabs": ".nav-tabs&&li&&a",//解析源
                 "lists": ".myui-content__list:eq(#id) li"
             },
+	      搜索: '.detail;h4&&Text;.thumb&&a&&data-original;.text-muted&&Text;a&&href;',
 
  }
