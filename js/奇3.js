@@ -16,6 +16,7 @@ var rule={
 	    	一级: '.myui-vodlist__box;a&&title;a&&data-original;.pic-text text-right;a&&href',
 			二级: {
                 "title": ".myui-content__detail&&h1",//分類/年份...
+		 "content": ".hidden-xs&&Text",//簡介
                 "tabs": ".nav-tabs&&li&&a",//解析源
                 "lists": ".myui-content__list:eq(#id) li"
             },
