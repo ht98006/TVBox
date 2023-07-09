@@ -1,9 +1,9 @@
 var rule={
             title: '中國人',
             host: 'https://chinaqtv.co',
-            //url:'/vodtype/fyclass_fypage.html',
+            url:'/vodtype/fyclass_fypage.html',
  
-            url:'/vodtype/fyclass--------fypage---.html',
+            //url:'/vodtype/fyclass--------fypage---.html',
 
 
 	        //https://chinaqtv.co/vodsearch/.html?wd=4
