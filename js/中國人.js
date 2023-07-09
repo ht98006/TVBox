@@ -1,7 +1,11 @@
 var rule={
             title: '中國人',
             host: 'https://chinaqtv.co',
-            url:'/vodtype/fyclass_fypage.html',
+            //url:'/vodtype/fyclass_fypage.html',
+ 
+            url:'/vodtype/fyclass--------fypage---.html',
+
+
 	        //https://chinaqtv.co/vodsearch/.html?wd=4
             searchUrl: '/vodsearch/.html?wd=**',	  
             searchable: 2,//是否启用全局搜索,
