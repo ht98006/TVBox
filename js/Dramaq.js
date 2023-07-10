@@ -14,8 +14,8 @@ var rule={
             play_parse: true,
             lazy: '',
             limit: 6,  
-	        推荐: 'body&&.card;a&&title;img&&src;span&&Text;a&&href',
-	        一级: '.card;img&&alt;img&&src;span&&Text;a&&href',
+	        推荐: 'body&&.card;.title&&Text;img&&src;span&&Text;a&&href',
+	        一级: '.card;.title&&Text;img&&src;span&&Text;a&&href',
 	        二级: {
                 "title": ".title&&Text",
 				"desc": ".intro&&Text;",
