@@ -20,8 +20,8 @@
  
 [
 {
-    "key":"櫻花動漫2",
-    "name":"🐑櫻花動漫2",
+    "key":"櫻花動漫",
+    "name":"🐑櫻花動漫",
     "type":3,
     "api":"https://raw.githubusercontent.com/ht98006/TVBox/main/libs/drpy2.js",
     "searchable":2,
@@ -40,11 +40,18 @@
     "ext":"https://raw.githubusercontent.com/ht98006/TVBox/main/js/movieffm.js"
 },
 {
+    "key":"Dramaq",
+    "name":"🐑Dramaq",
+    "type":3,
+    "api":"https://raw.githubusercontent.com/ht98006/TVBox/main/libs/drpy2.js",
+    "ext":"https://raw.githubusercontent.com/ht98006/TVBox/main/js/Dramaq.js"
+},
+{
     "key":"中國人",
     "name":"🐑中國人",
     "type":3,
     "api":"https://raw.githubusercontent.com/ht98006/TVBox/main/libs/drpy2.js",
-    "ext":"https://raw.githubusercontent.com/ht98006/TVBox/main/js/%E4%B8%AD%E5%9C%8B%E4%BA%BA.js"
+    "ext":"https://raw.githubusercontent.com/ht98006/TVBox/main/js/%E4%B8%AD%E5%9C%8B%E4%BA%BA2.js"
 },
 {
    
