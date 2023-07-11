@@ -21,7 +21,8 @@ var rule={
             limit: 6,  
 	          // 可操作变量有 rule_fetch_params,rule,以及基础的网页访问request,post等操作
             //预处理:'rule_fetch_params.headers.Cookie = "xxxx";',
-	        推荐: '.public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;.public-list-div&&a&&href',
+	        推荐: '.public-list-exp;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+	        //double:true,//是否双层列表定位,默认false
 	        //double: true, // 推荐内容是否双层定位
 	        一級: '.public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;&&a&&href',
 	        二级: {
