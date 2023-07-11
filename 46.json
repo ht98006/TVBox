@@ -14,6 +14,7 @@
  //
  //https://raw.githubusercontent.com/ht98006/TVBox/main/js/%E6%84%9B%E7%9C%8B%E5%BD%B1%E8%A6%96.js
 [
+{"key":"csp_xbb_爱看影视","name":"🍀爱看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/PP/mao2022/raw/branch/master/json/🍀爱看影视.json"},
 {
     "key":"櫻花動漫",
     "name":"🐑櫻花動漫",
