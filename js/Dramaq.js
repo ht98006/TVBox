@@ -18,9 +18,10 @@ var rule={
 	        一级: '.card;.title&&Text;img&&src;span&&Text;a&&href',
 	        二级: {
                 "title": ".title&&Text",
-				"desc": ".intro&&Text;",
+				"desc": ".intro&&Text",
 				"img": "img&&src",//圖
-                "tabs": ".eps&&a;",//解析源
+				"content": ".pinfo&&Text",//簡介.
+				"tabs": ".eps;a&&Text",//解析源
                 "lists": ".eps:eq(#id) li"
             },
 	      搜索:'.list;a&&Text;*;*;a&&href',
