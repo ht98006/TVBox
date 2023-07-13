@@ -25,7 +25,7 @@
     "key":"酷云77",
     "name":"🐑酷云77",
     "type":3,
-	"api":"https://raw.githubusercontent.com/ht98006/TVBox/main/libs/drpy.min.js",
+	"api":"https://raw.githubusercontent.com/ht98006/TVBox/main/libs/drpy2.min.js",
     "searchable":2,
     "quickSearch":0,
     "filterable":0,
